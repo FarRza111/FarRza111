@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fariz</h1>
-<h3 align="center">I'm graduated from Tartu University, Quantitative Economics (MA)</h3>
+<h3 align="center"> Graduated from Tartu University, Quantitative Economics (MA)</h3>
 <h3 align="center">A passionate data analyst from Estonia </h3>
 
 
