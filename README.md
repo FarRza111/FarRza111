@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python OOP**
 
-- 💬 Ask me about **Python, Oracle SQL, Power BI DAX **, ** Hadoop Impala **
+- 💬 Ask me about **Python, Oracle SQL, Power BI DAX, Hadoop Impala **
 
 - 📫 How to reach me **FarRza111@gmail.com**
 
